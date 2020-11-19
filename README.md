@@ -1,4 +1,4 @@
 # OS2020
 
-Daniel Hagimont
-hagimont@enseeiht.fr
+Le Phuoc Long
+longlp.bi9153@st.usth.edu.vn
